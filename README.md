@@ -14,7 +14,8 @@ Este repositório faz parte do desafio da DIO para consolidar conhecimentos em *
 Diagrama ilustrando arquitetura simples EC2 + EBS;
 Diagrama ilustrando S3 + Lambda:
 
-![Diagrama AWS](./Images/diagrama-aws.png)
+![Diagrama AWS](./images.src/diagrama-aws.png)
+
 
 
 *(substitua esses nomes de arquivo pelas imagens reais que você salvar na pasta `Images`)*
