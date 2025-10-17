@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "notas-fiscais-ocultas"
+        },
+        "object": {
+          "key": "nota_invalida.json"
+        }
+      }
+    }
+  ]
+}
